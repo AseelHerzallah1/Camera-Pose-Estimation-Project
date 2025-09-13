@@ -1,0 +1,14 @@
+﻿data_base/
+test_images/
+kids-slide-002-obj/
+*.keras
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.code-workspace
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
